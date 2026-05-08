@@ -1,0 +1,11 @@
+{
+  "song": {
+    "player1": "bf",
+    "player2": "tanjiro",
+    "gfVersion": "gf",
+    "notes": [],
+    "bpm": 160,
+    "needsVoices": true,
+    "speed": 1.6
+  }
+}

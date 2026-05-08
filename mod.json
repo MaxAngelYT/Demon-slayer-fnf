@@ -1,0 +1,8 @@
+{
+  "name": "Demon Slayer: Hashira Clash",
+  "description": "A Friday Night Funkin' mod featuring iconic Demon Slayer Hashira characters in epic rap battles",
+  "author": "MaxAngelYT",
+  "version": "1.0.0",
+  "engine": "haxe",
+  "gameVersion": "0.2.7.1"
+}
